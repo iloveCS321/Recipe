@@ -1,17 +1,4 @@
-body {
-    margin: 0;
-.title {
-    display: block;
-    width: fit-content;
-    margin: 20px auto;
-    padding: 10px 20px;
+h1{
+    text-align: center;
     border: 3px black;
-    font-size: 32px;
-    font-family: Arial;
-}
-
-}
-
-body {
-    background-color: aquamarine;
 }
